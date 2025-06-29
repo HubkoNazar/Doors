@@ -1,0 +1,58 @@
+body {
+    font-family:Display ;
+    color:brown;
+    background-color:#f37c58 ;
+}
+
+h1 {
+    text-align: center;
+}
+
+header {
+    text-align:center;
+
+}
+
+a {
+    color:rgb(253, 245, 0);
+    text-decoration:none;
+}
+
+a:hover{
+    color:rgb(163, 82, 16);
+}
+
+nav a {
+    margin-left:10px;
+    margin-right:10px;
+    border-radius:10px;
+    border: double 5px lightgray;
+    padding:5px;
+}
+
+main p {
+    text-align:center;
+}
+
+header img {
+    width:100px;
+    height:100px;
+}
+
+nav {
+    position:fixed;
+    top:1px;
+    background-color:brown;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+
+iframe{
+    width: 450px;
+    height:300px;
+    border:double 10px brown;
+}
+
+h2 {
+    text-align: center;
+}
